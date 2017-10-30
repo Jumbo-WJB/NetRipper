@@ -1,3 +1,6 @@
+//截获内存中的各类https明文密码:https://klionsec.github.io/2017/10/26/NetRipper/
+
+
 # Description
 
 NetRipper is a post exploitation tool targeting Windows systems which uses API hooking in order to intercept network traffic and encryption related functions from a low privileged user, being able to capture both plain-text traffic and encrypted traffic before encryption/after decryption. 
